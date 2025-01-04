@@ -1,0 +1,880 @@
+@media (max-width: 1750.98px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  .arrow-btn {
+    width: 130px;
+    height: 130px;
+  }
+
+  .faq__big-arrow {
+    right: -150px;
+  }
+
+  .price {
+    gap: 80px;
+  }
+
+  .how-work__phone {
+    top: 220px;
+  }
+
+  .utah-process {
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .utah-process__heading {
+    margin-left: 0;
+  }
+
+  .utah-process {
+    position: relative;
+    align-items: center;
+    padding-bottom: 650px;
+    gap: 40px;
+  }
+
+  .utah-process__intro {
+    width: 100%;
+  }
+
+  .utah-process__heading {
+    max-width: 100%;
+  }
+
+  .utah-process__img {
+    margin-top: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 500px;
+  }
+
+  .uttah-blog img {
+    height: 350px;
+  }
+
+  .uttah-blog__desc {
+    min-height: 145px;
+  }
+
+  .zip-details__content {
+    width: 600px;
+    gap: 70px;
+  }
+
+  .zip-details {
+    gap: 80px;
+    padding-top: 100px;
+  }
+
+  .zip-details__img {
+    margin-top: 60px;
+    height: 400px;
+  }
+
+  .zip-details__heading {
+    margin-left: 60px;
+  }
+
+  .zip-details {
+    padding-right: 60px;
+  }
+
+  .about-hero__content {
+    margin-left: 50px;
+  }
+
+  .about-hero__image {
+    width: 100%;
+    max-width: 550px;
+    height: 420px;
+  }
+
+  .advantages-area .container,
+  .basic-section-area .container {
+    max-width: 1200px;
+  }
+
+  .advantages__item img {
+    height: 320px;
+  }
+
+  .advantages {
+    gap: 40px;
+    margin-top: 40px;
+  }
+
+  .basic-section {
+    gap: 100px;
+  }
+
+  .basic-section__content,
+  .basic-section__image {
+    flex: 1;
+  }
+
+  .basic-section__content {
+    max-width: 100%;
+  }
+
+  .basic-section__image {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .container {
+    max-width: 100%;
+    padding: 0 50px;
+  }
+
+  .nav__links {
+    display: none;
+  }
+
+  .get-app-btn {
+    display: none;
+  }
+
+  .nav {
+    justify-content: center;
+  }
+
+  .home-hero__box {
+    width: calc(100% - 100px);
+  }
+
+  .desktop-faq-title {
+    display: none;
+  }
+
+  .mobile-faq-title {
+    display: block;
+  }
+
+  .faq__big-arrow {
+    right: 0;
+  }
+
+  .gallery__image1 {
+    height: 337px;
+  }
+
+  .gallery__image2 {
+    height: 341px;
+  }
+
+  .gallery__image3 {
+    height: 341px;
+  }
+
+  .gallery__image4 {
+    height: 341px;
+    flex: 0.4;
+  }
+
+  .gallery__image5 {
+    height: 341px;
+    flex: 0.8;
+  }
+
+  .gallery {
+    margin-top: 64px;
+    display: flex;
+    gap: 17px;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  .gallery__left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .gallery__left-bottom {
+    display: flex;
+    gap: 20px;
+  }
+
+  .gallery__right {
+    flex: 1;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10px;
+  }
+
+  .price {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 60px 50px 60px 50px;
+  }
+
+  .price__left {
+    width: 100%;
+    max-width: 323px;
+    margin-left: 45px;
+  }
+
+  .programs__places {
+    grid-template-columns: repeat(1, 1fr);
+    max-width: 448px;
+    gap: 40px;
+  }
+
+  .join-list {
+    flex-direction: column;
+    gap: 60px;
+  }
+
+  .join-list__content {
+    text-align: center;
+  }
+
+  .footer__nav {
+    margin-top: 100px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 100px;
+  }
+
+  .footer__social-links {
+    margin-top: 25px;
+  }
+
+  .home-hero-desc {
+    max-width: 100%;
+    padding: 60px 50px;
+  }
+
+  .basic-accordion {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .how-work__phone {
+    top: 200px;
+  }
+
+  .how-work__items {
+    padding-bottom: 250px;
+  }
+
+  .utah-hero__box {
+    margin-left: 0;
+  }
+
+  .utah-info__img {
+    display: none;
+  }
+
+  .utah-info {
+    gap: 40px;
+  }
+
+  .utah-info__item {
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
+  }
+
+  .utah-info__texts {
+    padding-top: 0;
+  }
+
+  .utah-info-area {
+    padding: 100px 0;
+  }
+
+  .uttah-blogs {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 60px;
+  }
+
+  .uttah-blog__desc {
+    min-height: auto;
+  }
+
+  .uttah-blog-area {
+    padding: 100px 0;
+  }
+
+  .uttah-started__content {
+    margin-left: 0;
+    max-width: 100%;
+  }
+
+  .uttah-get-started {
+    justify-content: flex-start;
+    padding: 0 50px;
+  }
+
+  .utah-process {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .utah-process__steps {
+    width: 100%;
+  }
+
+  .utah-process__step--right {
+    margin-left: 0;
+  }
+
+  .process-bottom-line {
+    top: -75px;
+    left: auto;
+    right: -180px;
+  }
+
+  .utah-process__steps::after {
+    left: 450px;
+  }
+
+  .zip-details {
+    flex-direction: column;
+    padding-left: 50px;
+    padding-right: 50px;
+    gap: 40px;
+  }
+
+  .zip-details__items {
+    gap: 60px;
+  }
+
+  .zip-details__img {
+    display: none;
+  }
+
+  .zip-details__content {
+    padding-top: 0;
+    width: 100%;
+  }
+
+  .zip-details__heading {
+    margin-left: 0;
+  }
+
+  .about-hero {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px;
+  }
+
+  .about-hero-area {
+    min-height: auto;
+    padding: 100px 50px;
+  }
+
+  .about-hero__content {
+    margin-left: 0;
+  }
+
+  .about-hero__content {
+    max-width: 100%;
+  }
+
+  .about-hero__image {
+    max-width: 100%;
+  }
+
+  .advantages {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px;
+  }
+
+  .advantages {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .advantages__item img {
+    height: 270px;
+  }
+
+  .basic-section {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .basic-section__image {
+    height: 350px;
+    flex: auto;
+  }
+
+  .basic-section-area {
+    padding-bottom: 120px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  body {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .container {
+    padding: 0 25px;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+
+  h4 {
+    font-size: 26px;
+  }
+
+  .home-hero-desc p,
+  .faq-area .section-heading p,
+  .price__left p,
+  .footer__mission p,
+  .join-list__content p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .accordion__question h5,
+  .accordion__answer p,
+  .price-feature-list li p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .nav__logo {
+    width: 60px;
+  }
+
+  .header {
+    min-height: auto;
+    padding: 15px 0;
+  }
+
+  .hero {
+    height: 780px;
+  }
+
+  .home-hero__box {
+    width: calc(100% - 50px);
+    padding: 40px 0;
+    margin-top: 41px;
+  }
+
+  .home-hero__content p {
+    margin-bottom: 35px;
+  }
+
+  .home-hero-desc {
+    max-width: 100%;
+    padding: 40px 25px;
+  }
+
+  .how-work {
+    padding-top: 10px;
+  }
+
+  .how-work__item {
+    padding-top: 30px;
+    height: 630px;
+  }
+
+  .how-work__content {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .how-work__phone {
+    min-width: 500px;
+    height: auto;
+    top: 30px;
+  }
+
+  .swiper-horizontal > .swiper-pagination-bullets,
+  .swiper-pagination-bullets.swiper-pagination-horizontal,
+  .swiper-pagination-custom,
+  .swiper-pagination-fraction {
+    bottom: 80px;
+  }
+
+  .how-work .custom-btn {
+    margin-top: -43px;
+  }
+
+  .how-work__item--signup .how-work__phone {
+    left: 53%;
+    transform: translateX(-53%);
+  }
+
+  .faq-area {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .arrow-btn {
+    width: 50px;
+    height: 50px;
+  }
+
+  .faq__big-arrow {
+    top: -2px;
+  }
+
+  .basic-accordion__item .accordion__answer {
+    margin-top: 18px;
+  }
+
+  .accordion__arrow {
+    margin-top: 7px;
+  }
+
+  .basic-accordion__item {
+    padding: 22px 0;
+    border-bottom: 0;
+    position: relative;
+  }
+
+  .basic-accordion__item::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: calc(100% - 40px);
+    height: 2px;
+    background: var(--border-faq);
+  }
+
+  .basic-accordion {
+    margin-top: 30px;
+    padding-top: 12px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .gallery {
+    margin-top: 40px;
+  }
+
+  .gallery__image1 {
+    height: 260px;
+  }
+
+  .gallery__image2 {
+    height: 200px;
+  }
+
+  .gallery__image3 {
+    height: 200px;
+  }
+
+  .gallery__image4 {
+    height: 150px;
+  }
+
+  .gallery__image5 {
+    height: 150px;
+  }
+
+  .gallery-area .custom-btn {
+    margin-top: 50px;
+  }
+
+  .gallery-area {
+    padding-bottom: 70px;
+  }
+
+  .price-plan-list {
+    margin-top: 10px;
+  }
+
+  .price {
+    gap: 35px;
+    padding: 40px 25px 140px 25px;
+    position: relative;
+  }
+
+  .price__left {
+    max-width: 100%;
+    margin-left: 0;
+  }
+
+  .price-feature-list li img {
+    width: 25px;
+  }
+
+  .price-feature-list li {
+    gap: 15px;
+  }
+
+  .price__right {
+    padding-top: 0;
+  }
+
+  .price__right h4 {
+    padding-left: 0;
+  }
+
+  .price__left .custom-btn {
+    margin-top: 0;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    min-width: calc(315px - 50px);
+    padding: 0;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+  }
+
+  .price-feature-list {
+    margin-top: 15px;
+    gap: 15px;
+  }
+
+  .programs__form {
+    gap: 20px;
+    margin-top: 35px;
+  }
+
+  .programs__places {
+    margin-top: 40px;
+    gap: 30px;
+  }
+
+  .programs__area {
+    padding: 70px 0;
+  }
+
+  .programs__place-title {
+    padding: 25px 0;
+  }
+
+  .programs__place {
+    height: 300px;
+  }
+
+  .footer {
+    padding-top: 65px;
+    padding-bottom: 65px;
+  }
+
+  .join-list__form {
+    max-width: 426px;
+  }
+
+  .join-list {
+    gap: 30px;
+  }
+
+  .join-list__content h2 {
+    margin-bottom: 15px;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer__nav-links li a {
+    font-size: 30px;
+  }
+
+  .footer__nav {
+    margin-top: 60px;
+    gap: 60px;
+  }
+
+  .input__style {
+    height: 60px;
+  }
+
+  main {
+    margin-top: 93px;
+  }
+
+  .utah-hero-area .hero {
+    padding-top: 148px;
+    padding-bottom: 450px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: flex-start;
+  }
+
+  .utah-hero-area .app-btn {
+    position: absolute;
+    bottom: -220px;
+    left: 0;
+  }
+
+  .utah-info-area {
+    padding: 70px 0;
+  }
+
+  .utah-info__item {
+    padding: 40px 25px;
+  }
+
+  .utah-info {
+    gap: 25px;
+  }
+
+  .utah-info__texts h3 {
+    margin-bottom: 20px;
+  }
+
+  .utah-info__texts .custom-btn {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .utah-process {
+    padding: 50px 25px;
+    padding-bottom: 400px;
+    gap: 15px;
+  }
+
+  .utah-process__steps {
+    gap: 70px;
+  }
+
+  .utah-process__img {
+    height: 270px;
+  }
+
+  .process-bottom-line {
+    top: -50px;
+    left: auto;
+    right: -80px;
+    width: 200px;
+    height: 100px;
+  }
+
+  .process-top-line {
+    position: absolute;
+    top: 20px;
+    right: -20px;
+    width: 100px;
+    height: 200px;
+  }
+
+  .uttah-blog img {
+    height: 230px;
+  }
+
+  .uttah-blogs {
+    gap: 40px;
+  }
+
+  .uttah-blog-area {
+    padding: 60px 0;
+  }
+
+  .utah-process__steps::after {
+    display: none;
+  }
+
+  .uttah-get-started {
+    height: 450px;
+    padding: 0 25px;
+  }
+
+  .utah-hero-area {
+    position: relative;
+  }
+
+  .app-btn--desktop {
+    display: none;
+  }
+
+  .utah-hero-area .app-btn--mobile {
+    display: block;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+  }
+
+  .zip-details {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 70px;
+    gap: 30px;
+  }
+
+  .zip-details__intro {
+    width: 100%;
+  }
+
+  .zip-details__item h3 {
+    margin-bottom: 18px;
+  }
+
+  .zip-details__items,
+  .zip-details__content {
+    gap: 50px;
+  }
+
+  .programs__form-bottom-texts {
+    margin-top: 25px;
+  }
+
+  .about-hero-area {
+    padding: 80px 25px;
+  }
+
+  .about-hero {
+    gap: 40px;
+  }
+
+  .about-hero__image {
+    height: 230px;
+  }
+
+  .advantages-area {
+    padding: 80px 0;
+  }
+
+  .advantages__item img {
+    height: 230px;
+  }
+
+  .basic-section__content h2 {
+    font-size: 36px;
+  }
+
+  .basic-section__content .custom-btn {
+    margin-top: 40px;
+  }
+
+  .basic-section__image {
+    height: 270px;
+  }
+
+  .basic-section-area {
+    padding-bottom: 80px;
+  }
+
+  .try-it-area {
+    padding-top: 20px;
+    padding-bottom: 80px;
+  }
+
+  .try-it p {
+    margin-bottom: 40px;
+  }
+}
